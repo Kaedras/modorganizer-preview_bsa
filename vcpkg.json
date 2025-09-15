@@ -32,7 +32,7 @@
       {
         "kind": "git",
         "repository": "https://github.com/Kaedras/vcpkg-registry",
-        "baseline": "dfe09fb10f1e1ca53edead3f7e4e83c04261b099",
+        "baseline": "81ddb7d30417c0e8ed86682968674447b3d734b1",
         "packages": ["mo2-*", "pybind11", "spdlog"]
       }
     ]
