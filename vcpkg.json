@@ -1,6 +1,5 @@
 {
   "dependencies": [
-    "mo2-dds-header",
     "zlib",
     "lz4",
     "mo2-dds-header",
