@@ -5,10 +5,7 @@
     "mo2-dds-header",
     "boost-interprocess",
     "boost-thread",
-    {
-      "name": "mo2-dxgiformat-header",
-      "platform": "linux"
-    }
+    "directx-headers"
   ],
   "features": {
     "standalone": {
@@ -32,7 +29,7 @@
       {
         "kind": "git",
         "repository": "https://github.com/Kaedras/vcpkg-registry",
-        "baseline": "81ddb7d30417c0e8ed86682968674447b3d734b1",
+        "baseline": "0ccf3e95425704e3c8db0e229521bedc210aa993",
         "packages": ["mo2-*", "pybind11", "spdlog"]
       }
     ]
