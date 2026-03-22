@@ -6,7 +6,6 @@ find_package(mo2-uibase CONFIG REQUIRED)
 find_package(ZLIB REQUIRED)
 find_package(lz4 CONFIG REQUIRED)
 find_package(Boost CONFIG REQUIRED COMPONENTS thread interprocess)
-find_package(mo2-dds-header CONFIG REQUIRED)
 find_package(mo2-bsatk CONFIG REQUIRED)
 
 add_library(preview_bsa SHARED)

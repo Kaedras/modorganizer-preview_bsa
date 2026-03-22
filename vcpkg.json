@@ -2,10 +2,8 @@
   "dependencies": [
     "zlib",
     "lz4",
-    "mo2-dds-header",
     "boost-interprocess",
-    "boost-thread",
-    "directx-headers"
+    "boost-thread"
   ],
   "features": {
     "standalone": {
