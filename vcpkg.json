@@ -3,7 +3,8 @@
     "zlib",
     "lz4",
     "boost-interprocess",
-    "boost-thread"
+    "boost-thread",
+    "mo2-dxgiformat-header"
   ],
   "features": {
     "standalone": {
